@@ -1,16 +1,7 @@
-# flutter_application_2
+//appbar yok. tasarımı çok beğenip kodladım. 
+//BottomAppBar'a butonlar atanmadı.
+//floataction da çalışmıyor.
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screen Shot - iPhone 12 - 2022-09-16 at 14 08 39](https://user-images.githubusercontent.com/50921547/190625999-76f78bbc-daef-4235-827b-29bf4f19fbf7.png)
+![Simulator Screen Shot - iPhone 12 - 2022-09-16 at 14 08 39](https://user-images.githubusercontent.com/50921547/190625989-f6865daf-1049-450a-a1f0-93030d1eea4b.png)
